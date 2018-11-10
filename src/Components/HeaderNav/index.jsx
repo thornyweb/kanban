@@ -4,7 +4,7 @@ export default class HeaderNav extends React.Component {
   render() {
     return (
       <React.Fragment>
-        <nav className='navbar navbar-expand-lg'>
+        <nav className='navbar navbar-expand-lg bg-secondary'>
           <div className='collapse navbar-collapse'>
             <ul className='navbar-nav mr-auto'>
               <li className='nav-item'>
